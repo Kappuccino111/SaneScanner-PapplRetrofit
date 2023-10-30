@@ -20,3 +20,5 @@ sane_scanner
 *.swo
 .DS_Store
 .deps/
+src/.deps/
+src/.dirstamp
