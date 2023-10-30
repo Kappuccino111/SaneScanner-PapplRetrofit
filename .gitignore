@@ -19,3 +19,4 @@ sane_scanner
 *.swp
 *.swo
 .DS_Store
+.deps/
