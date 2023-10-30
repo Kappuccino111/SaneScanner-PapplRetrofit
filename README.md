@@ -1,6 +1,6 @@
-# 🖨️ Sane Scanner
+# 🖨️ SaneScanner-PapplRetrofit
 
-Sane Scanner is a dynamic project that lets users seamlessly connect with scanners. Whether you wish to interact directly or desire server-mode operation, Sane Scanner has got you covered! It harnesses the power of the **SANE** (Scanner Access Now Easy) library and **Microhttpd** for scan services.
+SaneScanner-PapplRetrofit is a dynamic project that lets users seamlessly connect with scanners. Whether you wish to interact directly or desire server-mode operation, Sane Scanner has got you covered! It harnesses the power of the **SANE** (Scanner Access Now Easy) library and **Microhttpd** for scan services.
 
 > 🚧 **Work in Progress**: This project is actively being developed. Some parts may not function as expected. Stay tuned for updates!
 
