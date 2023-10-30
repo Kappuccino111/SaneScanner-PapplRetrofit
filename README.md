@@ -16,7 +16,7 @@ Before diving in, make sure these are installed:
 
 1. **Clone & Enter the Directory**:
 ```bash
-git clone [YOUR_REPOSITORY_URL]
+git clone [FORKED_REPOSITORY_URL]
 cd Sane_Scanner
 ```
 
